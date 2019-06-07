@@ -6,10 +6,10 @@
 
 ## INDÍCE DO REPOSITÓRIO
 
-1. [COMPUTAÇÃO](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md) - (**Parte 1: COMPUTAÇÃO**)
+1. [ELOQUENTE JAVASCRIPT]( https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md) - (**Parte 1: COMPUTAÇÃO**)
 1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introdu%C3%A7%C3%A3ogen%C3%A9tica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
 
-## Informações Importantes
+## Informações Importantes 
 
 - Meu nome: **DARLLEY**
 - Não tenho nenhuma formação adicional fora da computação, portanto os exercícios resolvidos em ciências naturais não tem garantia nenhuma de estarem certos.
