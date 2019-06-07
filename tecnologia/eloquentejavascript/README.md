@@ -6,8 +6,8 @@
 
 [Introdução](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/00-introducao.md)
 
-1. [Valores, Tipos e Operadores](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md) - (**Parte 1: Linguagem**)
-1. Estrutura do Programa
+1. Valores, Tipos e Operadores - (**Parte 1: Linguagem**)
+1. ![Estrutura do Programa](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/eloquentejavascript/segundocapitulo)
 1. Funções
 1. Estrutura de Dados: Objeto e Array
 1. Funções de Ordem Superior
