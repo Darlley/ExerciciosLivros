@@ -31,4 +31,4 @@
 ## Informações Importantes
 
 - Autores: **Marijn Haverbeke**
-- [Tradução](https://github.com/braziljs/eloquente-javascript) deste livro.
+- [Tradução](https://github.com/braziljs/eloquente-javascript/blob/master/README.md) deste livro.
