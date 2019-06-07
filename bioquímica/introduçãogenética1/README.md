@@ -1,8 +1,6 @@
 # INTRODUÇÃO À GENÉTICA - 10ª edição
 
-**Uma moderna introdução ao JavaScript, programação e maravilhas digitais.**
-
-![INTRODUÇÃO À GENÉTICA](https://livrariaflorence.fbitsstatic.net/img/p/livro-introducao-a-genetica-griffiths-144725/331117-1.jpg?w=660&h=660&v=no-change)
+![INTRODUÇÃO À GENÉTICA](https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=4956118&qld=90&l=430&a=-1)
 
 ## Conteúdo do Livro
 
