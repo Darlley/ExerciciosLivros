@@ -8,6 +8,7 @@
 
 1. [ELOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/eloquentejavascript) - Marijn Haverbeke (**Parte 1: COMPUTAÇÃO**)
 1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
+1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo/README.md) - Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
 
 ## Informações Importantes 
 
