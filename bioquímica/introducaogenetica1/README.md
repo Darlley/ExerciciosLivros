@@ -4,7 +4,7 @@
 
 ## Conteúdo do Livro
 
-[Introdução](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/00-introducao.md)
+#### Introdução
 
 1. [Revolução Genética nas Ciências da Vida](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md)
 
