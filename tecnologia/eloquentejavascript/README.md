@@ -1,6 +1,6 @@
 # INTRODUÇÃO À GENÉTICA - 10ª edição
 
-![eloquente](img/eloq-js.png)
+![eloquente](https://braziljs.github.io/eloquente-javascript/assets/images/cover.png)
 
 ## Conteúdo do Livro
 
