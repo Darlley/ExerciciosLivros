@@ -2,7 +2,8 @@
 
 **RESOLUÇÃO DE EXERCÍCIOS DE LIVROS**
 
-![estudos](https://www.santacarona.com/wp-content/uploads/2017/07/7dc1d8a7c436bff385b37ace82cb5137.jpg
+![estudos](https://www.santacarona.com/wp-content/uploads/2017/07/7dc1d8a7c436bff385b37ace82cb5137.jpg)
+
 ## INDÍCE DO REPOSITÓRIO
 
 1. [ELOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/eloquentejavascript) - (**Parte 1: COMPUTAÇÃO**)
