@@ -7,9 +7,9 @@
 ## INDÍCE DO REPOSITÓRIO
 
 1. [COMPUTAÇÃO](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md) - (**Parte 1: COMPUTAÇÃO**)
-1.1. [COMPUTAÇÃO](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md)
-2. [INTRODUÇÃO À GENÉTICA](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md) - (**Parte 2: BIOLOGIA E QUÍMICA**)
-2.1. [INTRODUÇÃO À GENÉTICA](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md)
+1. [COMPUTAÇÃO](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md)
+1. [INTRODUÇÃO À GENÉTICA](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md) - (**Parte 2: BIOLOGIA E QUÍMICA**)
+1. [INTRODUÇÃO À GENÉTICA](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md)
 
 ## Informações Importantes
 
