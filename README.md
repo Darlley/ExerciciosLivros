@@ -7,7 +7,7 @@
 ## INDÍCE DO REPOSITÓRIO
 
 1. [ELOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/eloquentejavascript) - Marijn Haverbeke (**Parte 1: COMPUTAÇÃO**)
-1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introdu%C3%A7%C3%A3ogen%C3%A9tica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
+1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
 
 ## Informações Importantes 
 
