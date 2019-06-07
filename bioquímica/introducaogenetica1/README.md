@@ -6,7 +6,7 @@
 
 #### Introdução
 
-1. [Revolução Genética nas Ciências da Vida](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/01-valores-tipos-operadores.md)
+1. [Revolução Genética nas Ciências da Vida](https://github.com/Darlley/ExerciciosLivros/tree/master/bioqu%C3%ADmica/introducaogenetica1/capituloum)
 
 ## Informações Importantes
 
