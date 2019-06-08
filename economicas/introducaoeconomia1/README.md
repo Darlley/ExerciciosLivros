@@ -4,7 +4,7 @@
 
 ## Conteúdo do Livro
 
-1. [Dez princípios de economia](https://github.com/Darlley/ExerciciosLivros/tree/master/economicas/introducaoeconomia1/revisao/capituloum) - (**Parte 1: Introdução**)
+1. [Dez princípios de economia](https://github.com/Darlley/ExerciciosLivros/tree/master/economicas/introducaoeconomia1/capituloum) - (**Parte 1: Introdução**)
 1. Pensando como um economista
 1. Interdependência e ganhos comerciais
 1. As forças de mercado da oferta e da demanda - (**Parte2: Oferta e demanda 1 - Como funciona os mercados**)
