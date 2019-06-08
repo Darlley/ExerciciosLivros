@@ -4,8 +4,6 @@
 
 ## Conteúdo do Livro
 
-##### Introdução
-
 1. Dez princípios de economia - (**Parte 1: Introdução**)
 1. Pensando como um economista
 1. Interdependência e ganhos comerciais
