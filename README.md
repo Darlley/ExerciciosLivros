@@ -7,6 +7,7 @@
 ## INDÍCE DO REPOSITÓRIO
 
 1. [ELOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/eloquentejavascript/README.md) - Marijn Haverbeke (**Parte 1: COMPUTAÇÃO**)
+1. REDES DE COMPUTADORES E A INTERNET - James F. Kurose, Keith W. Rossa 
 1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
 1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
