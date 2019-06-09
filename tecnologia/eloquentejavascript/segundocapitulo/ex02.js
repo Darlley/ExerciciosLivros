@@ -7,7 +7,6 @@ Quando o programa estiver funcionando, modifique-o para imprimir FizzBuzz para n
 // RESPOSTA:
 
 for(var i=1;i<=100;i++){
-	
 	// Comparação
 	if(i % 5 === 0 && i % 3 ==! 0){ // Divisivel por 5 mas não por 3
 		console.log('Buzz');
@@ -20,5 +19,4 @@ for(var i=1;i<=100;i++){
     }else{ // Números não divisíveis por 3 e 5
 		console.log(i);	
 	}
-	
 };
