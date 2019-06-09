@@ -20,6 +20,9 @@ for(var i=0; i<=7;i++){
 			if(j%2==!0){
 				tab = "#";
 				console.log(tab);
+			}else{
+				tab = " ";
+				console.log(tab);
 			}
 		}
 	}
