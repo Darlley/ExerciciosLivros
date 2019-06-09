@@ -6,19 +6,19 @@ Quando o programa estiver funcionando, modifique-o para imprimir FizzBuzz para n
 
 // RESPOSTA:
 
-var counter = 1;
-while(counter <= 100){
+for(var i=1;i<=100;i++){
 	
-	if(counter % 5 === 0 && counter % 3 ==! 0){ // Divisivel por 5 mas não por 3
+	// Comparação
+	if(i % 5 === 0 && i % 3 ==! 0){ // Divisivel por 5 mas não por 3
 		console.log('Buzz');
-	}else if(counter % 3 === 0){ // Divisivel por 3
-		if(counter % 5 === 0){ // Divisilvelpor 3 e 5
+	}else if(i % 3 === 0){ // Divisivel por 3
+		if(i % 5 === 0){ // Divisilvelpor 3 e 5
 			console.log('FizBuzz');
 		}else{
 			console.log('Fizz');
 		}
     }else{ // Números não divisíveis por 3 e 5
-		console.log(counter);	
+		console.log(i);	
 	}
-	counter+=1;
+	
 };
