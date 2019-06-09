@@ -1,6 +1,6 @@
-# FUNDAMENTOS DE MATEMÁTICA ELEMENTAR - 1ª edição
+# FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1: CONJUNTOS E FUNÇÕES - 3ª edição
 
-![capa](https://images-na.ssl-images-amazon.com/images/I/51OHQmCzEIL._SX354_BO1,204,203,200_.jpg)
+![capa](http://4.bp.blogspot.com/-FCw1BlZmZK4/UeYE5pvbuvI/AAAAAAAAAO8/N9WA4uXvJK4/s1600/304004.jpg)
 
 ## Conteúdo do Livro
 
