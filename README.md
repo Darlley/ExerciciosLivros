@@ -11,6 +11,10 @@
 1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
 1. [INTRODUÇÃO À ECONOMIA](https://github.com/Darlley/ExerciciosLivros/blob/master/economicas/introducaoeconomia1/README.md) - Gregory Mankiw (**PARTE 4 - CIÊNCIAS ECONOMICAS**)
 
+### COMPLEMENTAR
+- Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores)
+
+
 ## Informações Importantes 
 
 - Meu nome: **DARLLEY**
