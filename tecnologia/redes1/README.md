@@ -4,7 +4,7 @@
 
 ## Conteúdo do Livro
 
-1. Redes de computadores e a Internet
+1. [Redes de computadores e a Internet](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/redes1/capituloum)
 1. Camada de aplicação
 1. Camada de transporte
 1. A camada de rede
@@ -16,4 +16,4 @@
 
 ## Informações Importantes
 
-- Autores: ***James F. Kurose**, **Keith W. Rossa **
+- Autores: ***James F. Kurose**, **Keith W. Rossa**
