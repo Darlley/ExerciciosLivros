@@ -11,7 +11,7 @@
 1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
 1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
-1. [INTRODUÇÃO À LÓGICA](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/introl%C3%B3gica1) - Cezar A. Mortari
+1. [INTRODUÇÃO À LÓGICA](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/intrológica1/README.md) - Cezar A. Mortari
 1. [INTRODUÇÃO À ECONOMIA](https://github.com/Darlley/ExerciciosLivros/blob/master/economicas/introducaoeconomia1/README.md) - Gregory Mankiw (**PARTE 4 - CIÊNCIAS ECONOMICAS**)
 
 ### COMPLEMENTAR
