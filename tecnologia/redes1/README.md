@@ -16,4 +16,4 @@
 
 ## Informações Importantes
 
-- Autores: ***James F. Kurose**, **Keith W. Rossa**
+- Autores: **James F. Kurose**, **Keith W. Rossa**
