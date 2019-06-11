@@ -21,5 +21,5 @@
 
 ## Informações Importantes 
 
-- Meu nome: **DARLLEY**
+- Meu nome: [**DARLLEY**](https://medium.com/@darlleybrito)
 - Não tenho nenhuma formação adicional fora da computação, portanto os exercícios resolvidos em ciências naturais não tem garantia nenhuma de estarem corretos.
