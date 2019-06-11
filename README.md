@@ -1,6 +1,6 @@
 # LEITURAS 
 
-**RESOLUÇÃO DE EXERCÍCIOS DE LIVROS**
+**COMPUTAÇÃO/TECNOLOGIA, CIÊNCIAS NATURAIS, CIÊNCIAS SOCIAIS, CIÊNCIAS ECONOMICAS, ETC.**
 
 ![estudos](https://www.santacarona.com/wp-content/uploads/2017/07/7dc1d8a7c436bff385b37ace82cb5137.jpg)
 
