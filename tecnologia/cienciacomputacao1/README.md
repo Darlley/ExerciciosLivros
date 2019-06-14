@@ -12,6 +12,10 @@
 1. Linguagens de programação
 1. Engenharia de Software
 1. Estrutura de dados - (**Parte 3: Organização de dados**)
+1. Estrutura de arquivo
+1. Estrutura de banco de dados
+1. Inteligência Artificial - (**Parte 4: O potêncial das máquinas**)
+1. Teoria da computação
 
 ## Informações Importantes
 
