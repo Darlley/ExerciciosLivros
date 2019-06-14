@@ -4,14 +4,14 @@
 
 ## Conteúdo do Livro
 
-1 Lógica Formal, 1
-2 Demonstrações, Recursão e Análise de Algoritmo, 49
-3 Conjuntos e Combinatória, 97
-4 Relações, Funções e Matrizes, 150
-5 Gratos e Árvores, 216
-6 Grafos e Algoritmos, 278
-7 Álgebra Booleana e Lógica de Computadores, 315
-8 Modelagem Aritmética, Computação e Linguagens, 361
+1. Lógica Formal
+1. Demonstrações, Recursão e Análise de Algoritmo
+1. Conjuntos e Combinatória
+1. Relações, Funções e Matrizes
+1. Gratos e Árvores
+1. Grafos e Algoritmos
+1. Álgebra Booleana e Lógica de Computadores
+1. Modelagem Aritmética, Computação e Linguagens
 
 ## Informações Importantes
 
