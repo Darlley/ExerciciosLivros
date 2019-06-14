@@ -5,7 +5,7 @@
 ## Conteúdo do Livro
 
 1. [Noções de lógica](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/mathelementar1/capituloum)
-1. Conjuntos
+1. [Conjuntos](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/mathelementar1/capitulo2)
 1. Conjuntos Numéricos
 1. Relações
 1. Funções
