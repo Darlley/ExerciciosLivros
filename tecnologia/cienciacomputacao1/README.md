@@ -1,0 +1,18 @@
+# CIÊNCIA DA COMPUTAÇÃO - 11ª edição
+
+![capa](https://images-submarino.b2w.io/produtos/01/00/item/113957/5/113957538SZ.jpg)
+
+## Conteúdo do Livro
+
+[Introdução](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/redes2/capituloum)
+1. Armazenamento de dados - (**Parte 1: Arquitetura de Máquina**)
+1. Manipulação de dados
+1. Sistemas operacionais e redes - (**Parte 2: Software**)
+1. Algorítmos
+1. Linguagens de programação
+1. Engenharia de Software
+1. Estrutura de dados - (**Parte 3: Organização de dados**)
+
+## Informações Importantes
+
+- Autor: **J. Glenn Brookshear**
