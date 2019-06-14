@@ -14,6 +14,7 @@
 1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
 1. [INTRODUÇÃO À LÓGICA](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/intrológica1/README.md) - Cezar A. Mortari
+1. [FUNDAMENTOS MATEMÁTICOS PARA A CIÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/matematicacomputacao1/README.md) - Judith L. Gersting
 1. [INTRODUÇÃO À ECONOMIA](https://github.com/Darlley/ExerciciosLivros/blob/master/economicas/introducaoeconomia1/README.md) - Gregory Mankiw (**PARTE 4 - CIÊNCIAS ECONOMICAS**)
 
 ### COMPLEMENTAR
