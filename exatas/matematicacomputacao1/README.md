@@ -4,7 +4,7 @@
 
 ## Conteúdo do Livro
 
-1. Lógica Formal
+1. [Lógica Formal](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/matematicacomputacao1/capitulo1)
 1. Demonstrações, Recursão e Análise de Algoritmo
 1. Conjuntos e Combinatória
 1. Relações, Funções e Matrizes
