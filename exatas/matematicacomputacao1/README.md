@@ -1,4 +1,4 @@
-# FUNDAMENTOS MATEMÁTICOS PARA A CIÊNCIA DA COMPUTAÇÃO - 3ª edição
+# FUNDAMENTOS MATEMÁTICOS PARA A CIÊNCIA DA COMPUTAÇÃO - 7ª edição
 
 ![capa](https://http2.mlstatic.com/fundamentos-matematicos-para-a-ciencia-da-computacao-ltc-D_NQ_NP_813853-MLB28303126988_102018-F.jpg)
 
