@@ -5,7 +5,7 @@
 ## Conteúdo do Livro
 
 1. [Conjunto numérico e os números reais](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/precalculo1/capituloum) - (**Parte 1 - Introdução**)
-1. Radiciação e potenciação - (**Parte 2 - Álgebra**)
+1. [Radiciação e potenciação](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/precalculo1/capitulo2) - (**Parte 2 - Álgebra**)
 1. Polinômios e fatoração
 1. Expressões fracionárias
 1. Equações
