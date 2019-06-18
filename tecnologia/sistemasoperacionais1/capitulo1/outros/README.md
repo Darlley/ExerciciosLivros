@@ -1,1 +1,1 @@
-Exercícios co tidos na 6° edição
+Exercícios contidos na 6° edição
