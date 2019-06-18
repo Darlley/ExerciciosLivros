@@ -16,4 +16,4 @@
 
 ## Informações Importantes
 
-- Autor: *Abraham Silberschatz**, **Peter Baer Galvin** e **Greg Gagne**
+- Autor: **Abraham Silberschatz**, **Peter Baer Galvin** e **Greg Gagne**
