@@ -19,7 +19,8 @@
 1. [INTRODUÇÃO À ECONOMIA](https://github.com/Darlley/ExerciciosLivros/blob/master/economicas/introducaoeconomia1/README.md) - Gregory Mankiw (**PARTE 4 - CIÊNCIAS ECONOMICAS**)
 
 ### COMPLEMENTAR
-- Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores)
+- Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores).
+- Repositório para livro o digital: [Matemática Fundacional para Computação](https://github.com/tsouanas/fmcbook).
 
 
 ## Informações Importantes 
