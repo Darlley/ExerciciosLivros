@@ -5,7 +5,7 @@
 ## Conteúdo do Livro
 
 [Introdução](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/cienciacomputacao1/capitulo0)
-1. Armazenamento de dados - (**Parte 1: Arquitetura de Máquina**)
+1. [Armazenamento de dados](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/cienciacomputacao1/capitulo1) - (**Parte 1: Arquitetura de Máquina**)
 1. Manipulação de dados
 1. Sistemas operacionais e redes - (**Parte 2: Software**)
 1. Algorítmos
