@@ -4,8 +4,8 @@
 
 ## Conteúdo do Livro
 
-1. [Introdução](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/introl%C3%B3gica1/capituloum)
-1. Lógica e Argumentos
+1. [Introdução](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/introl%C3%B3gica1/capitulo1)
+1. Lógica e Argumentos (**Não tem exercícios**)
 1. [Preliminares](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/intrológica1/capitulo3)
 1. [Conjuntos](https://github.com/Darlley/ExerciciosLivros/tree/master/exatas/intrológica1/capitulo4)
 1. Introdução ao CQC
