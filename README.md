@@ -11,6 +11,7 @@
 1. [REDES DE COMPUTADORES](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes2/README.md) - Andrew S. Tanenbaum
 1. [CIÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/cienciacomputacao1/README.md) - J. Glenn Brookshear
 1. [SISTEMAS OPERACIONAIS COM JAVA](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/sistemasoperacionais1/README.md) - Abraham Silberschatz
+1. [ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - Thomas H. Cormen 
 1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
 1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
