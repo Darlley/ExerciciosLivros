@@ -4,7 +4,7 @@
 
 ## Conteúdo do Livro
 
-1. [O papel dos algoritmos na computação](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - (**Parte 1 - Fundamentos**)
+1. [O papel dos algoritmos na computação](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/capitulo1) - (**Parte 1 - Fundamentos**)
 1. Dando a partida
 1. Crescimento de funções
 1. Divisão e conquista
