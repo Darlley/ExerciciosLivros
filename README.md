@@ -2,6 +2,19 @@
 
 **COMPUTAÇÃO/TECNOLOGIA, CIÊNCIAS NATURAIS, CIÊNCIAS SOCIAIS, CIÊNCIAS ECONOMICAS, ETC.**
 
+#### APROXIMAÇÃO DENTRE DESENVOLVIMENTO DE SOFTWARE E FILOSOFIA
+
+De acordo com B. Cox, desenvolver software é: 
+
+> [...] uma forma híbrida, algo no domínio entre o concreto e o abstrato, entre o tangível e o intangível. Esses dois domínios coexistem na definição de software, influenciam essa definição em proporções diferentes e são altamente dependentes tanto do entendimento subjetivo sobre o que é o trabalho do desenvolvedor de software quanto à área de conhecimento e atuação das pessoas envolvidas. [...] o desenvolvimento de produtos de software é visto como uma atividade mental, abstrata, solitária e criativa.[1]
+
+A arividade de filosofar de acordo com B. Mondin
+
+> Mesmo os instrumentos cognitivos de que se utiliza todo o homem e todo cientista, os sentidos e a imaginação, ao filósofo só servem na fase inicial, para conseguir alguns conhecimentos do real, para o qual depois volta o olhar penetrante da razão. O trabalho verdadeiro e próprio da pesquisa filosófica é realizado apenas pela razão; esta, para subtrair-se a todo tipo de distração, encerra-se em seu sagradi recinto, longe do barulho das máquinas, da sedução dos prazeres e da práxis, da confusão dos sentidos, em solitaria companhia com o próprio objeto.[2]
+
+[1] Ainda não vi a citação original, o mais próximo foi (apud GUERRA; ALVES, 2004, p. 1) e *Planning the software industrial revolution, B.J. Cox,* mas não tive acesso.
+[2] **INTRODUÇÃO À FILOSOFIA**, Batista Mondin,p. 6.
+
 ![estudos](https://www.santacarona.com/wp-content/uploads/2017/07/7dc1d8a7c436bff385b37ace82cb5137.jpg)
 
 ## INDÍCE DO REPOSITÓRIO
