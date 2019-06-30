@@ -4,7 +4,7 @@
 
 ![estudos](https://www.santacarona.com/wp-content/uploads/2017/07/7dc1d8a7c436bff385b37ace82cb5137.jpg)
 
-#### APROXIMAÇÃO DENTRE DESENVOLVIMENTO DE SOFTWARE E FILOSOFIA
+#### APROXIMAÇÃO ENTRE DESENVOLVIMENTO DE SOFTWARE E FILOSOFIA
 
 De acordo com B. Cox, desenvolver software é:
 > [...] uma forma híbrida, algo no domínio entre o concreto e o abstrato, entre o tangível e o intangível. Esses dois domínios coexistem na definição de software, influenciam essa definição em proporções diferentes e são altamente dependentes tanto do entendimento subjetivo sobre o que é o trabalho do desenvolvedor de software quanto à área de conhecimento e atuação das pessoas envolvidas. [...] o desenvolvimento de produtos de software é visto como uma atividade mental, abstrata, solitária e criativa.[1]
