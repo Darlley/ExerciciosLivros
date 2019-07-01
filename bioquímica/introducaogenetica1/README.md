@@ -7,7 +7,7 @@
 #### Introdução
 
 1. [Revolução Genética nas Ciências da Vida](https://github.com/Darlley/ExerciciosLivros/tree/master/bioqu%C3%ADmica/introducaogenetica1/capituloum)
-1. Herança Monogênica
+1. [Herança Monogênica](https://github.com/Darlley/ExerciciosLivros/tree/master/bioquímica/introducaogenetica1/capitulo2)
 1. Distribuição Independente de Genes
 1. Mapeamento de Cromossomos Eucarióticos por Recombinação
 1. A Genética das Bactérias e seus Vírus
