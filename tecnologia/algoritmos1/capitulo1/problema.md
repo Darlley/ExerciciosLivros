@@ -15,3 +15,5 @@ pode ser resolvido no tempo t, considerando que o algoritmo para resolver o prob
 |   n3   |           |          |        |       |       |       |          |
 |   2n   |           |          |        |       |       |       |          |
 |   n!   |           |          |        |       |       |       |          |
+
+#### RESPOSTA
