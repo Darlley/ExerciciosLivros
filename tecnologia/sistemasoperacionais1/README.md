@@ -30,3 +30,4 @@
 ## Informações Importantes
 
 - Autor: **Abraham Silberschatz**, **Peter Baer Galvin** e **Greg Gagne**
+- Existe um [curso de Sistemas Operacionais](https://www.youtube.com/playlist?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw) pelo canal da UNIVESP no youtube que utiliza o livro como base.
