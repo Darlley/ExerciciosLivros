@@ -17,3 +17,5 @@
 ## Informações Importantes
 
 - Autores: **James F. Kurose**, **Keith W. Rossa**
+- Existe um [curso de Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) pelo canal da UNIVESP no youtube que utiliza o livro (6° edição) como base.
+- Há um curso mais prático de [Redes de Computadores](https://www.youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP) do Gustavo Guanabara em seu canal *Curso em Vídeo*.
