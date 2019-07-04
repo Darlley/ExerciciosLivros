@@ -5,3 +5,5 @@ funciona mais rapidamente
 que um algoritmo cujo tempo de execução é 2n na mesma máquina?
 
 #### RESPOSTA
+
+• • •
