@@ -16,3 +16,4 @@
 ## Informações Importantes
 
 - Autores: **Andrew S. Tanenbaum**
+Existe um curso (ou leitura comentada) de [Redes de Computadores](https://www.youtube.com/playlist?list=PL4ADECF8F55696AE9) pelo canal da *aiedonline* no youtube que utiliza o livro como base.
