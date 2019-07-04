@@ -34,3 +34,4 @@
 ## Informações Importantes
 
 - Autor: **Ian Sommerville**
+- Existe um [curso de Engenharia de Software](https://www.youtube.com/playlist?list=PLxI8Can9yAHfeoA_yMm9iKJVxQprljmL9) pelo canal da UNIVESP no youtube.
