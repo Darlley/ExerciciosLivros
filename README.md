@@ -24,6 +24,7 @@ A atividade de filosofar de acordo com B. Mondin:
 1. [SISTEMAS OPERACIONAIS COM JAVA](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/sistemasoperacionais1/README.md) - Abraham Silberschatz
 1. [ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - Thomas H. Cormen 
 1. [ENGENHARIA DE SOFTWARE](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/engenhariadesoftware1/README.md) - Ian Sommerville
+1. [INTELIGÊNCIA ARTIFICIAL](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/InteligenciaArtifical1/README.md) - George F. Luger
 1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
 1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
