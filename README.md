@@ -6,7 +6,11 @@
 
 ## INDÍCE DO REPOSITÓRIO
 
-1. [ELOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/eloquentejavascript/README.md) - Marijn Haverbeke (**Parte 1: COMPUTAÇÃO**)
+> **PARTE 1: COMPUTAÇÃO**
+>
+> ![Computer](https://cdn-images-1.medium.com/max/1200/1*2wOWJr-i7MU_D25_M1rvTA.gif)
+
+1. [ELOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/eloquentejavascript/README.md) - Marijn Haverbeke
 1. [REDES DE COMPUTADORES E A INTERNET](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes1/README.md) - Kurose e Rossa
 1. [REDES DE COMPUTADORES](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes2/README.md) - Andrew S. Tanenbaum
 1. [CIÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/cienciacomputacao1/README.md) - J. Glenn Brookshear
@@ -14,8 +18,18 @@
 1. [ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - Thomas H. Cormen 
 1. [ENGENHARIA DE SOFTWARE](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/engenhariadesoftware1/README.md) - Ian Sommerville
 1. [INTELIGÊNCIA ARTIFICIAL](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/InteligenciaArtifical1/README.md) - George F. Luger
-1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll (**Parte 2: BIOLOGIA E QUÍMICA**)
-1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana (**PARTE 3 - CIÊNCIAS EXATAS**)
+
+> **PARTE 2: BIOLOGIA E QUÍMICA**
+>
+> ![BIOBIOLÓGICA](https://media.giphy.com/media/pULs0FZmQn4ic/giphy.gif)
+
+1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll
+
+> **PARTE 2: CIÊNCIAS EXATAS**
+>
+> ![math](https://i.imgur.com/RmYr4Mw.gif)
+
+1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
 1. [INTRODUÇÃO À LÓGICA](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/intrológica1/README.md) - Cezar A. Mortari
 1. [FUNDAMENTOS MATEMÁTICOS PARA A CIÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/matematicacomputacao1/README.md) - Judith L. Gersting
