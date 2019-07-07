@@ -4,15 +4,22 @@
 
 ## Conteúdo do Livro
 
-1. [Redes de computadores e a Internet](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/redes1/capituloum)
-1. Camada de aplicação
-1. Camada de transporte
-1. A camada de rede
-1. Camada de enlace: enlaces, redes de acesso e redes locais
-1. Redes sem fio e redes móveis
-1. Redes multimídia
-1. Segurança em redes de computadores
-1. Gerenciamento de rede
+1. [IA: História e aplicações](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/InteligenciaArtifical1/capitulo1) - (**Parte 1 - Inteligência artificial: raizes e escopo**)
+1. Cálculo de predicados - (**Parte 2 - Inteligência artificial como representação e busca**)
+1. Estruturas e estratégias para busca em espaço de estados 
+1. Busca eurística
+1. Métodos estocasticos
+1. Construção de algoritmos de controle
+1. Representação do conhecimento - (**Parte 3 - Caprturando inteligência: o desafio da IA**)
+1. Solução de problemas por método forte
+1. Raciocinando em situações incertas
+1. Aprendizado de máquina - (**Parte 4 - Aprendizado de máquina**)
+1. Aprendizado de máquina: conexionista
+1. Aprendizado de máquina: genético e emergente
+1. Aprendizado de máquina: probabilístico
+1. Raciocínio automatizado - (**Parte 5 - Tópicos avançados para a solução de problemas por IA**)
+1. Compreensão da linguagem natural
+1. Inteligência Artificial como investigação empírica - (**Parte 6 - EPÍLOGO)
 
 ## Informações Importantes
 
