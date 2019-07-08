@@ -25,7 +25,7 @@
 
 1. [INTRODUÇÃO À GENÉTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/bioqu%C3%ADmica/introducaogenetica1/README.md) - Sean B. Carroll
 
-> **PARTE 2: CIÊNCIAS EXATAS**
+> **PARTE 3: CIÊNCIAS EXATAS**
 >
 > ![math](https://i.imgur.com/RmYr4Mw.gif)
 
@@ -33,7 +33,12 @@
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
 1. [INTRODUÇÃO À LÓGICA](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/intrológica1/README.md) - Cezar A. Mortari
 1. [FUNDAMENTOS MATEMÁTICOS PARA A CIÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/matematicacomputacao1/README.md) - Judith L. Gersting
-1. [INTRODUÇÃO À ECONOMIA](https://github.com/Darlley/ExerciciosLivros/blob/master/economicas/introducaoeconomia1/README.md) - Gregory Mankiw (**PARTE 4 - CIÊNCIAS ECONOMICAS**)
+
+> **PARTE 4: CIÊNCIAS ECONÔMICAS**
+>
+> ![Economy](https://i.imgur.com/KbCX4w3.png.png)
+
+1. [INTRODUÇÃO À ECONOMIA](https://github.com/Darlley/ExerciciosLivros/blob/master/economicas/introducaoeconomia1/README.md) - Gregory Mankiw
 
 ### COMPLEMENTAR
 - Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores).
