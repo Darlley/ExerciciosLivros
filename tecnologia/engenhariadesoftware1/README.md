@@ -1,6 +1,6 @@
 # ENGENHARIA DE SOFTWARE - 9° edição
 
-![capa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIMHbmfrOWM4vEft27p4wtWGJvCrUhd5P0zozdJGPo-ay6Urrh)
+[![capa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIMHbmfrOWM4vEft27p4wtWGJvCrUhd5P0zozdJGPo-ay6Urrh)](https://drive.google.com/file/d/1KcS2OWvy-4lKzyxQNBy6k45DnaVMD4G4/view?usp=drivesdk)
 
 ## Conteúdo do Livro
 
