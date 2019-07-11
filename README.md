@@ -4,7 +4,7 @@
 
 ![estudos](https://media.giphy.com/media/HACWkf6IrkywE/giphy.gif)
 
-### INTERESSES
+### [INTERESSES](https://medium.com/@darlleybrito)
 
 1. Programação Web
 1. Filosofia da Mente/IA
@@ -68,7 +68,7 @@ A atividade de filosofar de acordo com B. Mondin:
 - Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores).
 - Repositório para livro o digital: [Matemática Fundacional para Computação](https://github.com/tsouanas/fmcbook).
 
-## Informações Importantes 
+### Informações Importantes 
 
 - Meu nome: [**DARLLEY**](https://medium.com/@darlleybrito)
 - Não tenho nenhuma formação adicional fora da computação, portanto os exercícios resolvidos em ciências naturais não tem garantia nenhuma de estarem corretos.
