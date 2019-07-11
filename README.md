@@ -4,6 +4,30 @@
 
 ![estudos](https://media.giphy.com/media/HACWkf6IrkywE/giphy.gif)
 
+### INTERESSES
+
+1. Programação Web
+1. Filosofia da Mente/IA
+1. Filosofia da Religião
+1. Filosofia Moral
+1. Filosofia Politica
+1. Epistemologia
+1. Teologia
+1. Biologia Molecular
+1. Evolução Biológica
+1. Física Teorica
+
+#### APROXIMAÇÃO ENTRE DESENVOLVIMENTO DE SOFTWARE E FILOSOFIA
+
+De acordo com B. Cox, desenvolver software é:
+> [...] uma forma híbrida, algo no domínio entre o concreto e o abstrato, entre o tangível e o intangível. Esses dois domínios coexistem na definição de software, influenciam essa definição em proporções diferentes e são altamente dependentes tanto do entendimento subjetivo sobre o que é o trabalho do desenvolvedor de software quanto à área de conhecimento e atuação das pessoas envolvidas. [...] **o desenvolvimento de produtos de software é visto como uma atividade mental, abstrata, solitária e criativa**.[1]
+
+A atividade de filosofar de acordo com B. Mondin:
+> Mesmo os instrumentos cognitivos de que se utiliza todo o homem e todo cientista, os sentidos e a imaginação, ao filósofo só servem na fase inicial, para conseguir alguns conhecimentos do real, para o qual depois volta o olhar penetrante da razão. O trabalho verdadeiro e próprio da pesquisa filosófica é realizado apenas pela razão; **esta, para subtrair-se a todo tipo de distração, encerra-se em seu sagrado recinto, longe do barulho das máquinas, da sedução dos prazeres e da práxis, da confusão dos sentidos, em solitaria companhia com o próprio objeto**.[2]
+
+1. Ainda não vi a citação original, o mais próximo foi (apud GUERRA; ALVES, 2004, p. 1) e *Planning the software industrial revolution, B.J. Cox,* mas não tive acesso.
+1. **[INTRODUÇÃO À FILOSOFIA](https://medium.com/@darlleybrito/o-que-%C3%A9-filosofia-b-mondin-c629340f50eb)**, Batista Mondin,p. 6.
+
 ## INDÍCE DO REPOSITÓRIO
 
 > **PARTE 1: COMPUTAÇÃO**
@@ -43,18 +67,6 @@
 ### COMPLEMENTAR
 - Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores).
 - Repositório para livro o digital: [Matemática Fundacional para Computação](https://github.com/tsouanas/fmcbook).
-
-
-#### APROXIMAÇÃO ENTRE DESENVOLVIMENTO DE SOFTWARE E FILOSOFIA
-
-De acordo com B. Cox, desenvolver software é:
-> [...] uma forma híbrida, algo no domínio entre o concreto e o abstrato, entre o tangível e o intangível. Esses dois domínios coexistem na definição de software, influenciam essa definição em proporções diferentes e são altamente dependentes tanto do entendimento subjetivo sobre o que é o trabalho do desenvolvedor de software quanto à área de conhecimento e atuação das pessoas envolvidas. [...] **o desenvolvimento de produtos de software é visto como uma atividade mental, abstrata, solitária e criativa**.[1]
-
-A atividade de filosofar de acordo com B. Mondin:
-> Mesmo os instrumentos cognitivos de que se utiliza todo o homem e todo cientista, os sentidos e a imaginação, ao filósofo só servem na fase inicial, para conseguir alguns conhecimentos do real, para o qual depois volta o olhar penetrante da razão. O trabalho verdadeiro e próprio da pesquisa filosófica é realizado apenas pela razão; **esta, para subtrair-se a todo tipo de distração, encerra-se em seu sagrado recinto, longe do barulho das máquinas, da sedução dos prazeres e da práxis, da confusão dos sentidos, em solitaria companhia com o próprio objeto**.[2]
-
-1. Ainda não vi a citação original, o mais próximo foi (apud GUERRA; ALVES, 2004, p. 1) e *Planning the software industrial revolution, B.J. Cox,* mas não tive acesso.
-1. **[INTRODUÇÃO À FILOSOFIA](https://medium.com/@darlleybrito/o-que-%C3%A9-filosofia-b-mondin-c629340f50eb)**, Batista Mondin,p. 6.
 
 ## Informações Importantes 
 
