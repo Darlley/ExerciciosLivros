@@ -1,6 +1,6 @@
 # ALGORITMOS: TEORIA E PRÁTICA - 3ª edição
 
-![capa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8HPe0e2YWVzd-SUF9xPuLmGgcfUby_bq_Gg0Lc4eqkcQVtVq)
+[![capa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8HPe0e2YWVzd-SUF9xPuLmGgcfUby_bq_Gg0Lc4eqkcQVtVq)](https://drive.google.com/file/d/1HFeqhuFb6LIBI_hk2asuV37s8CM0JpSM/view?usp=drivesdk)
 
 ## Conteúdo do Livro
 
