@@ -1,6 +1,6 @@
 # CIÊNCIA DA COMPUTAÇÃO - 11ª edição
 
-![capa](https://images-submarino.b2w.io/produtos/01/00/item/113957/5/113957538SZ.jpg)
+[![capa](https://images-submarino.b2w.io/produtos/01/00/item/113957/5/113957538SZ.jpg)](https://drive.google.com/file/d/18Cz9IFiClIDEy076iNxcVTZY8LsRf5Hg/view)
 
 ## Conteúdo do Livro
 
