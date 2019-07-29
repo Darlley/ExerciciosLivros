@@ -1,6 +1,6 @@
 # INTELIGÊNCIA ARTIFICIAL - 6° edição
 
-[![capa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYERYOhBCDbb5I_7Eb9bc2jGhPz9l8NhV9kz-jbDI82HhEXx6y)](https://drive.google.com/file/d/1KlGtOvscc852xefsHDSobFwFqeLyk-_o/view?)
+[![capa](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYERYOhBCDbb5I_7Eb9bc2jGhPz9l8NhV9kz-jbDI82HhEXx6y)](https://drive.google.com/file/d/1Z98DG0K_xk51TNEWxtcZVuH6D1_JlqOv/view)
 
 ## Conteúdo do Livro
 
