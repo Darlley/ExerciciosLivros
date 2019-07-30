@@ -1,0 +1,22 @@
+# ESTRUTURA DE DADOS E SEUS ALGORITMOS - 3° edição
+
+[![capa](https://images-na.ssl-images-amazon.com/images/I/61MT4SsqDSL.jpg)](https://drive.google.com/drive/folders/1G-4y_2MArYvkd3aW5pdtOrGr14ZiFVf5)
+
+## Conteúdo do Livro
+
+1. [Preliminares]()
+1. Listas Lineares
+1. Árvores
+1. Árvores Binárias de Busca
+1. Árvores Balanceadas
+1. Listas de Prioridades
+1. Algoritmos de Ordenação
+1. Estruturas Autoajustáveis
+1. Listas de Prioridades Avançadas
+1. Tabelas de Dispersão
+1. Busca Digital
+1. Processamento de Cadeias
+
+## Informações Importantes
+
+- Autor: **Jayme Luiz Szwarcfiter** e **Lilian Markenzon**.
