@@ -34,15 +34,15 @@ A atividade de filosofar de acordo com B. Mondin:
 >
 > ![Computer](https://cdn-images-1.medium.com/max/1200/1*2wOWJr-i7MU_D25_M1rvTA.gif)
 
-1. [ELOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/eloquentejavascript/README.md) - Marijn Haverbeke
-1. [REDES DE COMPUTADORES E A INTERNET](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes1/README.md) - Kurose e Rossa
-1. [REDES DE COMPUTADORES](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes2/README.md) - Andrew S. Tanenbaum
-1. [CIÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/cienciacomputacao1/README.md) - J. Glenn Brookshear
-1. [SISTEMAS OPERACIONAIS COM JAVA](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/sistemasoperacionais1/README.md) - Abraham Silberschatz
-1. [ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - Thomas H. Cormen 
+1. [**A**LGORITMOS: TEORIA E PRÁTICA](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - Thomas H. Cormen 
+1. [**C**IÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/cienciacomputacao1/README.md) - J. Glenn Brookshear
+1. [**E**LOQUENTE JAVASCRIPT](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/eloquentejavascript/README.md) - Marijn Haverbeke
 1. [ENGENHARIA DE SOFTWARE](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/engenhariadesoftware1/README.md) - Ian Sommerville
-1. [INTELIGÊNCIA ARTIFICIAL](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/InteligenciaArtifical1/README.md) - George F. Luger
 1. [ESTRUTURA DE DADOS E SEUS ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/estruturadedados1/README.md) - Jayme Luiz Szwarcfiter e Lilian Markenzon
+1. [**I**NTELIGÊNCIA ARTIFICIAL](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/InteligenciaArtifical1/README.md) - George F. Luger
+1. [**R**EDES DE COMPUTADORES E A INTERNET](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes1/README.md) - Kurose e Rossa
+1. [REDES DE COMPUTADORES](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/redes2/README.md) - Andrew S. Tanenbaum
+1. [**S**ISTEMAS OPERACIONAIS COM JAVA](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/sistemasoperacionais1/README.md) - Abraham Silberschatz
 
 > **PARTE 2: BIOLOGIA E QUÍMICA**
 >
@@ -54,10 +54,11 @@ A atividade de filosofar de acordo com B. Mondin:
 >
 > ![math](https://i.imgur.com/RmYr4Mw.gif)
 
-1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana
 1. [FUNDAMENTOS DE MATEMÁTICA ELEMENTAR 1](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/mathelementar1/README.md) - Gelson Iezzi
-1. [INTRODUÇÃO À LÓGICA](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/intrológica1/README.md) - Cezar A. Mortari
 1. [FUNDAMENTOS MATEMÁTICOS PARA A CIÊNCIA DA COMPUTAÇÃO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/matematicacomputacao1/README.md) - Judith L. Gersting
+1. [INTRODUÇÃO À LÓGICA](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/intrológica1/README.md) - Cezar A. Mortari
+1. [PRÉ-CALCULO](https://github.com/Darlley/ExerciciosLivros/blob/master/exatas/precalculo1/README.md) - Franklin D. Demana
+
 
 > **PARTE 4: CIÊNCIAS ECONÔMICAS**
 >
