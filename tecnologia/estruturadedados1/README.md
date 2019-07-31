@@ -1,6 +1,6 @@
 # ESTRUTURA DE DADOS E SEUS ALGORITMOS - 3° edição
 
-[![capa](https://images-na.ssl-images-amazon.com/images/I/61MT4SsqDSL.jpg)](https://drive.google.com/drive/folders/1G-4y_2MArYvkd3aW5pdtOrGr14ZiFVf5)
+[![capa](https://images-na.ssl-images-amazon.com/images/I/61MT4SsqDSL.jpg)](https://drive.google.com/file/d/1Z5zL9omR4SFs469AZp1BmcsIFBF6ADmJ/view)
 
 ## Conteúdo do Livro
 
