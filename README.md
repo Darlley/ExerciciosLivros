@@ -42,6 +42,7 @@ A atividade de filosofar de acordo com B. Mondin:
 1. [ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/algoritmos1/README.md) - Thomas H. Cormen 
 1. [ENGENHARIA DE SOFTWARE](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/engenhariadesoftware1/README.md) - Ian Sommerville
 1. [INTELIGÊNCIA ARTIFICIAL](https://github.com/Darlley/ExerciciosLivros/blob/master/tecnologia/InteligenciaArtifical1/README.md) - George F. Luger
+1. [ESTRUTURA DE DADOS E SEUS ALGORITMOS](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/estruturadedados1/README.md) - Jayme Luiz Szwarcfiter e Lilian Markenzon
 
 > **PARTE 2: BIOLOGIA E QUÍMICA**
 >
