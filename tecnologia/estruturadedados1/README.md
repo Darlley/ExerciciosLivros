@@ -4,7 +4,7 @@
 
 ## Conteúdo do Livro
 
-1. [Preliminares](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/estruturadedados/capitulo1)
+1. [Preliminares](https://github.com/Darlley/ExerciciosLivros/tree/master/tecnologia/estruturadedados1/capitulo1)
 1. Listas Lineares
 1. Árvores
 1. Árvores Binárias de Busca
