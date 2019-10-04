@@ -73,4 +73,4 @@ A atividade de filosofar de acordo com B. Mondin:
 ### Informações Importantes 
 
 - Meu nome: [**DARLLEY**](https://medium.com/@darlleybrito)
-- Não tenho nenhuma formação adicional fora da computação, portanto os exercícios resolvidos em ciências naturais não tem garantia nenhuma de estarem corretos.
+- Não tenho nenhuma formação adicional fora da computação, portanto os exercícios resolvidos em ciências naturais não tem garantia nenhuma de estarem corretos (embora não garanto também as de tecnologia (._.")).
