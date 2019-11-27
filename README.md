@@ -66,6 +66,12 @@ A atividade de filosofar de acordo com B. Mondin:
 
 1. [**I**NTRODUÇÃO À ECONOMIA](https://github.com/Darlley/ExerciciosLivros/blob/master/economicas/introducaoeconomia1/README.md) - Gregory Mankiw
 
+> **PARTE 5: CIÊNCIAS HUMANAS**
+>
+> ![Human](https://media1.giphy.com/media/2zZlT2ZS7K7dvAmrNA/source.gif)
+
+1. [**H**ISTÓRIA DA PSICOLOGIA MODERNA](#) - Duane P. Schultz
+
 ### COMPLEMENTAR
 - Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores).
 - Repositório para livro o digital: [Matemática Fundacional para Computação](https://github.com/tsouanas/fmcbook).
