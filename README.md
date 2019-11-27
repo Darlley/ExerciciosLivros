@@ -68,7 +68,7 @@ A atividade de filosofar de acordo com B. Mondin:
 
 > **PARTE 5: CIÊNCIAS HUMANAS**
 >
-> ![Human](https://media1.giphy.com/media/2zZlT2ZS7K7dvAmrNA/source.gif)
+> ![Human](https://i.pinimg.com/originals/50/6a/c9/506ac9b48c5a38ffef49522592a07fcb.gif)
 
 1. [**H**ISTÓRIA DA PSICOLOGIA MODERNA](#) - Duane P. Schultz
 
