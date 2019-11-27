@@ -70,7 +70,7 @@ A atividade de filosofar de acordo com B. Mondin:
 >
 > ![Human](https://i.pinimg.com/originals/50/6a/c9/506ac9b48c5a38ffef49522592a07fcb.gif)
 
-1. [**H**ISTÓRIA DA PSICOLOGIA MODERNA](#) - Duane P. Schultz
+1. [**H**ISTÓRIA DA PSICOLOGIA MODERNA](https://github.com/Darlley/ExerciciosLivros/blob/master/humanas/psicologia1/README.md) - Duane P. Schultz
 
 ### COMPLEMENTAR
 - Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores).
