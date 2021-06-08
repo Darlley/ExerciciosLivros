@@ -72,6 +72,30 @@ A atividade de filosofar de acordo com B. Mondin:
 
 1. [**H**ISTÓRIA DA PSICOLOGIA MODERNA](https://github.com/Darlley/ExerciciosLivros/blob/master/humanas/psicologia1/README.md) - Duane P. Schultz
 
+> **PARTE 6: DESENVOLVIMENTO WEB - HTML E CSS**
+> 
+> ![web](https://miro.medium.com/max/700/1*nCpfU7AD35VLsljEvbVfSw.gif)
+1. [HTML e CSS: projete e construa websites](https://www.amazon.com.br/HTML-CSS-projete-construa-Websites/dp/8576089394/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=HTML+e+CSS%3A+projete+e+construa+websites&qid=1623112971&s=books&sr=1-1) - Jon Duckett
+2. [HTML5 e CSS3: guia prático e visual](https://www.amazon.com.br/Html-CSS-guia-prático-visual/dp/8576088037/ref=sr_1_5?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=HTML+e+CSS%3A+projete+e+construa+websites&qid=1623112971&s=books&sr=1-5) - Elizabeth Castro
+3. [HTML5 e CSS3](https://www.casadocodigo.com.br/products/livro-html-css) - Lucas Mazza
+4. [Web Design Reponsivo](https://github.com/Darlley/Frontend/tree/master/LIVROS/WebDesignResponsivo) - Tárcio Zemel
+5. [A Web Mobile](https://www.casadocodigo.com.br/products/livro-web-mobile) - Sérgio Lopes
+6. [Coletânea Front End](https://www.casadocodigo.com.br/products/livro-coletanea-front-end) - Vários Autores
+7. [Guia Front-End](https://www.casadocodigo.com.br/products/livro-guia-frontend) - Diego Eis
+8. [CSS Eficiente](https://www.casadocodigo.com.br/products/livro-css-eficiente) - Tárcio Zemel
+9. [Bootstrap 3.3.5](https://github.com/Darlley/Frontend/tree/master/LIVROS/Bootstrap335) - Maurício Samy Silva Maujor
+10. [Bootstrap 4](https://www.casadocodigo.com.br/products/livro-bootstrap4?_pos=1&_sid=c72e71f91&_ss=r) - Natan Souza
+11. [Sass](https://www.casadocodigo.com.br/products/livro-sass) - Natan Souza
+12. [Turbine seu CSS](https://www.casadocodigo.com.br/products/livro-turbine-css) - Rosicléia Frasson
+
+> **PARTE 7: DESENVOLVIMENTO WEB - JAVASCRIPT**
+
+> **PARTE 8: DESENVOLVIMENTO WEB - PHP**
+> **PARTE 8: DESENVOLVIMENTO WEB - NODE.JS**
+> **PARTE 8: DESENVOLVIMENTO WEB - MYSQL**
+> **PARTE 8: DESENVOLVIMENTO WEB - VUE.JS**
+> **PARTE 8: DESENVOLVIMENTO WEB - WORDPRESS**
+
 ### COMPLEMENTAR
 - Repositório de [Matemática para programadores](https://github.com/Darlley/matematica-para-programadores).
 - Repositório para livro o digital: [Matemática Fundacional para Computação](https://github.com/tsouanas/fmcbook).
